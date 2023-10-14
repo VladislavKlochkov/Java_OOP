@@ -4,11 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18f66b1b-f6ca-4805-9522-e1811ceae549" name="Changes" comment="" />
+    <list default="true" id="18f66b1b-f6ca-4805-9522-e1811ceae549" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/StudentGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/StudentGroupComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/StudentGroupIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -33,13 +48,26 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.lesson2.Main">
+  <component name="RunManager" selected="Application.lesson3.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="java_OOP" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentGroupIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson3.StudentGroupIterator" />
+      <module name="java_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,8 +101,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lesson3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson3.Main" />
+      <module name="java_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lesson3.Main" />
+        <item itemvalue="Application.StudentGroupIterator" />
         <item itemvalue="Application.lesson2.Main" />
         <item itemvalue="Application.lesson1.Main" />
         <item itemvalue="Application.Main" />
