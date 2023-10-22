@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18f66b1b-f6ca-4805-9522-e1811ceae549" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/model/StudentGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/model/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/service/DataService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/service/StudentGroupService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/view/StudentView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="18f66b1b-f6ca-4805-9522-e1811ceae549" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
