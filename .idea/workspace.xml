@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18f66b1b-f6ca-4805-9522-e1811ceae549" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/CarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/ICar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/OldTrain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/hw/ComplexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/hw/ComplexNumbersOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/hw/FloatNumbersOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/hw/ICalculationOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/hw/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +54,13 @@
       <recent name="C:\Хранилище\Документы\Учёба\Разработчик\Объектно-ориентированное программирование\java_OOP\src\main\java\lesson4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lesson7.Main">
+  <component name="RunManager" selected="Application.lesson7.hw.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson7.Main" />
+      <option name="MAIN_CLASS_NAME" value="lesson7.hw.Main" />
       <module name="java_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson7.*" />
+          <option name="PATTERN" value="lesson7.hw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,7 +122,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lesson7.Main" />
+        <item itemvalue="Application.lesson7.hw.Main" />
         <item itemvalue="Application.lesson3.Main" />
         <item itemvalue="Application.StudentGroupIterator" />
         <item itemvalue="Application.lesson2.Main" />
